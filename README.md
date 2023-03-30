@@ -84,3 +84,10 @@ for i in testset:
 질러가다 -> ('질러가지 않다', '질러가지 못하다')
 돌아서 지나가다 -> ('돌아서 지나가지 않다', '돌아서 지나가지 못하다')
 ```
+
+
+### **Contact**
+
+Any comments and suggestions will be appreciated.
+
+byunsj@snu.ac.kr
